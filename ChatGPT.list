@@ -1,0 +1,4 @@
+# > ChatGPT域名关键字过滤
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
